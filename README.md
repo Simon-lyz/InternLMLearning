@@ -13,7 +13,25 @@
 3. 部署方案
    - 模型并行，低比特量化，Attention优化，计算和访存优化，Continuous Batching
      
-### 全链条开放体系 | 智能体
+...（完整笔记见下文）
 
-### 完整内容
+## InternLM Lesson-1
 https://g4w90egc30.feishu.cn/docx/IJLxd5TnyoQTwkxZ1tJcLajAnQe?from=from_copylink
+
+## InternLM lesson-2 web_demo部署 + Agent Prompt与运行逻辑研读
+https://g4w90egc30.feishu.cn/docx/KIw4ddOrQoIeWCxJMjbciXb8nbf?from=from_copylink
+
+## Lagent源码阅读 ReAct、Rewoo、AutoGPT
+https://g4w90egc30.feishu.cn/docx/QhDLdN5BUou8sAxXJ2rccOotntd?from=from_copylink
+
+## InternLM Lesson-3 简单RAG
+https://g4w90egc30.feishu.cn/docx/LbIydMCbYoF7YsxI8egcAIznnwe?from=from_copylink
+
+## InternLM Lesson-4
+https://g4w90egc30.feishu.cn/docx/K8qodGQ27ojqWrxJxIycyin6nRg?from=from_copylink
+
+## InternLM Lesson-5 量化部署
+https://g4w90egc30.feishu.cn/docx/S7lPdG6F5ojQcxxFhQ1cYSC6nnh?from=from_copylink
+
+## InternLM Lesson-6 Opencompass评测
+https://g4w90egc30.feishu.cn/docx/ZOJZdv1duotLW4x0Nv8cWpyVnEb?from=from_copylink
